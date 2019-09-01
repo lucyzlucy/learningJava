@@ -1,45 +1,10 @@
 package schildt;
 
-
-import javax.imageio.IIOException;
-import java.io.IOException;
+import java.io.Console;
 
 public class Main {
-
     public static void main(String[] args) {
-
-        try {
-            System.in.read();
-        } catch (IOException e) {
-            System.out.println(e);
-        }
-        try {
-            try {
-                System.out.println("a");
-                throw new BB();
-
-            } catch (BB exc) {
-                System.out.println("Inner");
-                throw new AA();
-
-            }
-        } catch (AA exc) {
-            System.out.println("Outer");
-        }
-
-
+        Console a = System.console();
+        System.out.println(a);
     }
-}
-
-class AA extends Exception {
-}
-
-class BB extends AA {
-
-
-}
-
-class BBB {
-
-
 }
