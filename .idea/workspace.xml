@@ -2,130 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478aed70-660e-400f-aed6-9808cc0535ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/export.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pareto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/schildt/ReadFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pareto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pareto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/export.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schildt/FileHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topics.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Inheritance/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Inheritance/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Inheritance/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Inheritance/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Inheritance/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Inheritance/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Inheritance/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Interfaces/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Interfaces/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Interfaces/Fruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Interfaces/Fruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Interfaces/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Interfaces/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Interfaces/MyFruits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Interfaces/MyFruits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Interfaces/Tangerine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Interfaces/Tangerine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Arithmetic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Arithmetic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Exceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Exceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Figure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Figure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Learning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Learning.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/MyDivByZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/MyDivByZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/MyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task4Loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task4Loop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task5Loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task5Loop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task6Loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task6Loop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Task7Loop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Task7Loop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Transform.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Transform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Tria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Tria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/Other/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Other/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/OverrideHide/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/OverrideHide/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/OverrideHide/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/OverrideHide/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/OverrideHide/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/OverrideHide/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/bookpack/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/bookpack/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/bookpack/ExtBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/bookpack/ExtBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/bookpackext/ExtBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/bookpackext/ExtBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/bookpackext/ProtectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/bookpackext/ProtectDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/CircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/CircularQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/DynQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/DynQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/FixedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/FixedQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/ICharQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/ICharQ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/QueueEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/QueueEmptyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/QueueFullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/QueueFullException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/qpack/ResetException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/qpack/ResetException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/AA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Average.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/BB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/BB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/BBB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/BBB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Break.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Bubble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Bubble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/CompFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/CompFiles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/ConverterLetters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/ConverterLetters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Count.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Encode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/FindFac.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/FindFac.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/GalToLit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/GalToLit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Help2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Help2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Help3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Help3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Help4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Help4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/HelpClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/HelpClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/IQDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/IQDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/IVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/IVehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/InchToMeters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/InchToMeters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/InnerClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/InnerClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Kbln.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Kbln.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/LogicalOpTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/LogicalOpTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/MainExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/MainExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/MinMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/MoonGravity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/MoonGravity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/MultArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/MultArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Outer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Outer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/PrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/PrimeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/QDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/QDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/QDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/QDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Queue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Queue1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Queue1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Queue12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Queue12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Queue2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Queue2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Quicksort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Quicksort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/QuicksortDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/QuicksortDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/ReadBytes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/ReadBytes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/RecursionString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/RecursionString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/RecursionStringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/RecursionStringDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/ShowBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/ShowBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/ShowFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/ShowFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Sound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Sound.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/StackDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/StackEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/StackEmptyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/StackFullException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/StackFullException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/StringMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/SubSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/SubSub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/SuperSub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/SuperSub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/TestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/TestTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Truck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Truck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/TruckDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/TruckDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/TwoDShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/TwoDShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/TwoDShapeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/TwoDShapeDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/WriteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/WriteFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/aaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/aaa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/abc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/makeObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/makeObj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/schildt/trycatchnested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/schildt/trycatchnested.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schildt/KtoD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schildt/KtoD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/Pareto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/Pareto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pareto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pareto.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,6 +44,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Liudmyla_Tuteiko\IdeaProjects\Learning\src\qpack" />
       <recent name="C:\Users\Liudmyla_Tuteiko\IdeaProjects\Learning\src\schildt" />
@@ -175,9 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pareto">
-    <configuration name="IQDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="schildt.IQDemo" />
+  <component name="RunManager" selected="Application.FileHelp">
+    <configuration name="FileHelp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="schildt.FileHelp" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -202,21 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="schildt.Main" />
+    <configuration name="Pareto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pareto" />
       <module name="Learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="schildt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pareto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pareto" />
+    <configuration name="Pareto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pareto1" />
       <module name="Learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -237,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileHelp" />
+        <item itemvalue="Application.Pareto1" />
         <item itemvalue="Application.Pareto" />
         <item itemvalue="Application.ReadFromFile" />
         <item itemvalue="Application.KtoD" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.IQDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +146,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
